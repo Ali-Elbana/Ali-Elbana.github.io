@@ -1,5 +1,7 @@
 # Ali El-bana
 
+![Ali El-bana](https://github.com/user-attachments/assets/00e62a0f-26c0-4b49-824d-255cb24ae26a)
+
 **Embedded Systems Software Engineer**
 
 I am a determined, hard-working individual who is passionate about innovative solutions and embedded systems.
